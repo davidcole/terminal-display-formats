@@ -25,8 +25,8 @@ Ruby.
 
 == INSTALL:
 
-  sudo gem install terminal-display-formats
+  gem install terminal-display-formats
 
 == LICENSE:
 
-fuzzy-date is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+terminal-display-formats is released under the [MIT License](http://www.opensource.org/licenses/MIT).
