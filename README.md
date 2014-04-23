@@ -1,32 +1,32 @@
-= terminal-display-formats
+# terminal-display-formats
 
 http://github.com/davidcole/terminal-display-formats
 
-== DESCRIPTION:
+## DESCRIPTION:
 
 Adds formatting methods to String for easily adding formatting to terminal output.
 
-== FEATURES/PROBLEMS:
+## FEATURES/PROBLEMS:
 
 * Displays strings as formatted output.
 
-== SYNOPSIS:
+## SYNOPSIS:
 
-  require 'rubygems'
-  require 'terminal-display-formats'
+	require 'rubygems'
+	require 'terminal-display-formats'
 
-  puts 'bold'.bold
-  puts 'underline'.underline
-  puts 'blink'.blink
+	puts 'bold'.bold
+	puts 'underline'.underline
+	puts 'blink'.blink
   
-== REQUIREMENTS:
+## REQUIREMENTS:
 
 Ruby.
 
-== INSTALL:
+## INSTALL:
 
-  gem install terminal-display-formats
+	gem install terminal-display-formats
 
-== LICENSE:
+## LICENSE:
 
 terminal-display-formats is released under the [MIT License](http://www.opensource.org/licenses/MIT).
