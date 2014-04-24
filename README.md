@@ -1,6 +1,7 @@
 # terminal-display-formats
 
-http://github.com/davidcole/terminal-display-formats
+* For formatting methods, see: http://github.com/davidcole/terminal-display-formats
+* For both formatting and colors, see: http://github.com/davidcole/terminal-display
 
 ## DESCRIPTION:
 
